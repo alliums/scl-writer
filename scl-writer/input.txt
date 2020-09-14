@@ -1,9 +1,0 @@
-ionian-mode!mode 1 of 7 Diatonic modes! 9/8 5/4 4/3 3/2 5/3 15/8 2/1
-dorian-mode!mode 2 of 7 Diatonic modes!  10/9   6/5  4/3 3/2 5/3 16/9 2/1
-phrygian-mode!mode 3 of 7 Diatonic modes! 16/15 6/5 4/3 3/2 8/5 9/5 2/1
-lydian-mode!mode 4 of 7 Diatonic modes! 9/8 5/4 7/5 3/2 5/3 15/8 2/1
-mixolydian-mode!mode 5 of 7 Diatonic modes! 10/9 5/4 4/3 3/2 5/3 16/9 2/1
-aeolian-mode!mode 6 of 7 Diatonic modes! 9/8   6/5   4/3    3/2    8/5   16/9 2/1
-locrian-mode!mode 7 of 7 Diatonic modes!  16/15 6/5 4/3 10/7 8/5 16/9 2/1
-
-pentatonic-scale!the pentatonic scale as derived using Pythagoras' method of octaves and perfect fifths! 9/8 4/3 3/2 16/9 2/1
