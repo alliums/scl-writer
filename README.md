@@ -20,4 +20,3 @@ check example-input.txt.
 
 requires Python 3
 
-i'll rewrite it to work with node later on. for now, all of the dependencies should be included with the latest Python.
