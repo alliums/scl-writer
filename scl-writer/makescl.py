@@ -20,7 +20,7 @@ print("Use interval notation in fractional form or decimal form(cents).")
 print("1 octave = 2/1 = 1200.0000")
 print("The program will calculate the number of steps for you.")
 print("Do not include the tonic note (1).")
-print("Carnatic swara are accepted. View ratioDict.py for more information.")
+print("Carnatic shruti are accepted. View ratioDict.py for more information.")
 
 print("\nPerfectly valid lines look like this:")
 print("jyoti-swarupini.scl ! 68th Melakarta Raga ! 10/9 5/4 27/20 3/2 128/81 9/5 2")
