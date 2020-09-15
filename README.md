@@ -3,6 +3,10 @@ create batches of .scl files with .txt inputs.
 
 simply open up command line, clone the repo, run makescl.py, follow the instructions.
 
+# needless to say this is still a work in progress.
+very rudimentary functionality atm but it can still be quite useful for batch conversions.
+
+# what does it do
 the program takes a text file, each line containing one scale, composed of its intervals, its name, and its description.
 then it creates a directory (./file/) and outputs a .scl file for every scale.
 
