@@ -9,7 +9,6 @@ import os
 import string
 
 print("\n*~Shruti / Interval to .SCL Translator~*")
-print("PEACE! LAND! BREAD!\n")
 
 print("One line should have one scale.")
 print("Begin the line with the name of the scale to be used as the filename.")
